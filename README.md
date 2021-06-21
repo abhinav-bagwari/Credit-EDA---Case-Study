@@ -1,4 +1,4 @@
-# Credit-EDA---Case-Study
+# Credit EDA - Case Study
 
 # Introduction 
 This case study aims to give an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques we will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
